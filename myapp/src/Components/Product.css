@@ -24,6 +24,7 @@
 .item1 p{
     color: #E3E7F280;
     text-align: center;
+    margin-top: -75px;
 }
 .item2{
     width: 450px;
@@ -44,6 +45,7 @@
 .item2 p{
     color: #E3E7F280;
     text-align: center;
+    margin-top: -75px;
 }
 .item3{
     width: 450px;
@@ -64,6 +66,7 @@
 .item3 p{
     color: #E3E7F280;
     text-align: center;
+    margin-top: -75px;
 }
 .carousel{
     width: 150px;
@@ -79,6 +82,7 @@
     background-color: transparent;
     border: 1px solid #fff;
     color: #fff;
+    margin-top: -80px;
 }
 .btn2:hover{
     /* border-top-left-radius: 50%; */
@@ -94,6 +98,7 @@
     background-color: transparent;
     border: 1px solid #fff;
     color: #fff;
+    margin-top: -80px;
 }
 .btn3:hover{
     color: #000;

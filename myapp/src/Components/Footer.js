@@ -23,14 +23,6 @@ const Footer = () => {
                         </ul>
             </div>
             </div>
-            <div className="icon">
-              <div className="ins">
-                <img src={ins} alt="" />
-              </div>
-            </div>
-            <div className="log">
-            <button className='register '>Order <br /> project</button>
-            </div>
         </div>
 
 
