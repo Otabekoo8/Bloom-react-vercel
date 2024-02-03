@@ -1,0 +1,16 @@
+.client-inn{
+    width: 100%;
+    height: 100vh;
+    background-image: url(../img/background/Group2.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    /* background-color: aqua; */
+}
+marquee{
+    font-size: 90px;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    padding-top: 300px;
+}

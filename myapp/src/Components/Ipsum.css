@@ -1,0 +1,135 @@
+.headerr{
+    width: 100%;
+    height: 450px;
+    background-color: #1E1E1E;
+}
+.Inn{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    gap: 20px;
+    margin: 0 auto;
+    padding-left: 1100px;
+    /* background-color: aqua; */
+    /* padding-top: 150px; */
+    /* margin-top: 120px; */
+}
+.onebtn{
+    width: 50px;
+    height: 50px;
+    background-color: transparent;
+    border: 1px solid #fff;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 90px;
+    margin-left: 250px;
+}
+.onebtn:hover{
+    /* border-top-left-radius: 50%; */
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    color: #000;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.twobtn{
+    width: 50px;
+    height: 50px;
+    background-color: transparent;
+    border: 1px solid #fff;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 90px;
+}
+.twobtn:hover{
+    color: #000;
+    background-color: #fff;
+    border-top-left-radius: 50%;
+    /* border-top-right-radius: 50%; */
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.lorem{
+    /* background-color: #fff; */
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.lorem1{
+    width: 300px;
+    height: 200px;
+    background-color: #fff;
+}
+.lorem1 img{
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+p{
+    color: #00000080;
+    text-align: center;
+    padding-top: 60px;
+}
+.lorem2{
+    width: 300px;
+    height: 200px;
+    background-color: #fff;
+}
+.lorem2 img{
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+p{
+    color: #00000080;
+    text-align: center;
+    padding-top: 60px;
+}
+.lorem3{
+    width: 300px;
+    height: 200px;
+    background-color: #fff;
+}
+.lorem3 img{
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+p{
+    color: #00000080;
+    text-align: center;
+    padding-top: 60px;
+}
+.lorem4{
+    width: 300px;
+    height: 200px;
+    background-color: #fff;
+}
+.lorem4 img{
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+p{
+    color: #00000080;
+    text-align: center;
+    padding-top: 60px;
+}
